@@ -1,0 +1,33 @@
+body{
+    width : 800px;
+    
+}
+
+#main{
+  
+      display: inline-block; /* the default for span */
+    width: 600px;
+    height: 600px;
+  
+}
+
+
+#side{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+        float: right;
+}
+
+button {
+    background-color: skyblue; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor : pointer
+    
+}
